@@ -1,0 +1,20 @@
+- cd Documents/Ironhack
+
+- Fork the repository
+
+- git clone + link
+
+- cd data-prework/1. -Python (see master is appearing in the screen and explain this)
+
+- Open jupyter notebook and do some changes
+
+- cd to the folder where you made the changes
+
+- git add .
+
+- git status
+
+- git commit -m "comment"
+
+- git push
+
